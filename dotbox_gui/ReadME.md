@@ -8,5 +8,4 @@
 
 1. rollout 对应蒙特卡洛bot
 2. random对应随机bot
-
-
+![image](https://github.com/milab-neuq/chess_gui/blob/main/dotbox_gui/QQ%E5%9B%BE%E7%89%8720230619001050.png?raw=true)
