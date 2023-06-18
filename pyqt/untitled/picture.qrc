@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>img/amazon_board.jpg</file>
-    </qresource>
-    <qresource prefix="/new/prefix1"/>
-</RCC>
