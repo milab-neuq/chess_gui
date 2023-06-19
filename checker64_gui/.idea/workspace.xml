@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="322d4473-901b-42b1-aaa7-3a8a965efd14" name="变更" comment="6.10&#10;完工">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkers/src/main_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkers/src/main_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/checkers/src/checker_board.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PyGWl9igJO4WNPJi9LEVTWNLVK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;所有位置&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/python/checkers/checkers/ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\python\checkers\checkers\ui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\python\checkers\checkers\弃用" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_window">
+    <configuration name="checker_board (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="checkers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkers/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkers/src/checker_board.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checker_board_widget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="checkers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkers/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkers/src/checker_board_widget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_board" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="checkers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkers/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkers/src/load_board.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="checkers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkers/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkers/src/main_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mode_enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="checkers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/checkers/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkers/src/mode_enumerate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.load_board" />
+      <item itemvalue="Python.mode_enumerate" />
+      <item itemvalue="Python.checker_board (1)" />
+      <item itemvalue="Python.checker_board_widget" />
+      <item itemvalue="Python.main_window" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_window" />
+        <item itemvalue="Python.checker_board (1)" />
+        <item itemvalue="Python.checker_board_widget" />
+        <item itemvalue="Python.load_board" />
+        <item itemvalue="Python.mode_enumerate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="322d4473-901b-42b1-aaa7-3a8a965efd14" name="变更" comment="" />
+      <created>1684421941114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684421941114</updated>
+    </task>
+    <task id="LOCAL-00001" summary="重新采用qt designer设计棋盘 并且成功显示">
+      <created>1684574454192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684574454192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="重新采用qt designer设计棋盘 并且成功显示&#10;原来动态棋盘文件为main.py&#10;现在的为checker_board.py">
+      <created>1684574508587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684574508587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="5.20结果">
+      <created>1684577755209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684577755209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5.24&#10;重新采用 painter的形式 绘制棋盘等">
+      <created>1684934862349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684934862349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="5.27&#10;主界面缩放等完成&#10;接着需要完成鼠标点击事件处理，计时功能，晦棋功能等">
+      <created>1685176901457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685176901457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5.29&#10;吃子功能只能单吃&#10;多吃功能的多吃的集合并未完善">
+      <created>1685355286771</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685355286771</updated>
+    </task>
+    <task id="LOCAL-00007" summary="5.30&#10;已经可以按照规则吃子（还未考虑升级为王棋），已经可以悔棋&#10;接着还需考虑如何评判胜负，如何升级王棋，王棋吃子，还有计时功能">
+      <created>1685449697315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685449697315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="6.1&#10;实现了计时器功能&#10;实现了王棋的展示&#10;还需要完成王棋的吃子规则，王棋的悔棋功能">
+      <created>1685621317491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685621317491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="6.2&#10;函数基本写完&#10;需要修改王棋运行时的bug即可">
+      <created>1685679696434</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685679696434</updated>
+    </task>
+    <task id="LOCAL-00010" summary="6.2&#10;王琪可以正常走&#10;但是悔棋时存在少量问题，应该以回合数判定是否从王琪回退普通棋，待改正。&#10;其余大体上完全ok了。">
+      <created>1685707440412</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685707440412</updated>
+    </task>
+    <task id="LOCAL-00011" summary="6.3&#10;已经可以进行正常行棋，并且一次悔棋&#10;success">
+      <created>1685763989327</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685763989327</updated>
+    </task>
+    <task id="LOCAL-00012" summary="6.8&#10;突然发现王琪跳吃的规则错误，&#10;现已订正，但王棋存在问题，&#10;还有补充三种使用棋盘的方式，补充err和log日志功能，补充加载str_board能力，但是加载王棋后还是存在问题">
+      <created>1686156861641</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686156861641</updated>
+    </task>
+    <task id="LOCAL-00013" summary="6.8&#10;王琪跳吃已经成功修改！！">
+      <created>1686219556336</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686219556336</updated>
+    </task>
+    <task id="LOCAL-00014" summary="6.8&#10;有幸遇到环了。。。重新出现bug">
+      <created>1686234905311</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686234905311</updated>
+    </task>
+    <task id="LOCAL-00015" summary="6.9&#10;王琪跳吃环检测已经ok，预测普通棋也是一样，但还没修改">
+      <created>1686272730301</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686272730301</updated>
+    </task>
+    <task id="LOCAL-00016" summary="6.9&#10;跳吃成环bug已订正，接着书写readme文档">
+      <created>1686319448972</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686319448973</updated>
+    </task>
+    <task id="LOCAL-00017" summary="6.10&#10;完工">
+      <created>1686397194675</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686397194675</updated>
+    </task>
+    <task id="LOCAL-00018" summary="6.10&#10;完工">
+      <created>1686404051303</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686404051303</updated>
+    </task>
+    <task id="LOCAL-00019" summary="6.10&#10;完工">
+      <created>1686407828294</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686407828294</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="重新采用qt designer设计棋盘 并且成功显示" />
+    <MESSAGE value="重新采用qt designer设计棋盘 并且成功显示&#10;原来动态棋盘文件为main.py&#10;现在的为checker_board.py" />
+    <MESSAGE value="5.20结果" />
+    <MESSAGE value="5.24&#10;重新采用 painter的形式 绘制棋盘等" />
+    <MESSAGE value="5.27&#10;主界面缩放等完成&#10;接着需要完成鼠标点击事件处理，计时功能，晦棋功能等" />
+    <MESSAGE value="5.29&#10;吃子功能只能单吃&#10;多吃功能的多吃的集合并未完善" />
+    <MESSAGE value="5.30&#10;已经可以按照规则吃子（还未考虑升级为王棋），已经可以悔棋&#10;接着还需考虑如何评判胜负，如何升级王棋，王棋吃子，还有计时功能" />
+    <MESSAGE value="6.1&#10;实现了计时器功能&#10;实现了王棋的展示&#10;还需要完成王棋的吃子规则，王棋的悔棋功能" />
+    <MESSAGE value="6.2&#10;函数基本写完&#10;需要修改王棋运行时的bug即可" />
+    <MESSAGE value="6.2&#10;王琪可以正常走&#10;但是悔棋时存在少量问题，应该以回合数判定是否从王琪回退普通棋，待改正。&#10;其余大体上完全ok了。" />
+    <MESSAGE value="6.3&#10;已经可以进行正常行棋，并且一次悔棋&#10;success" />
+    <MESSAGE value="6.8&#10;突然发现王琪跳吃的规则错误，&#10;现已订正，但王棋存在问题，&#10;还有补充三种使用棋盘的方式，补充err和log日志功能，补充加载str_board能力，但是加载王棋后还是存在问题" />
+    <MESSAGE value="6.8&#10;王琪跳吃已经成功修改！！" />
+    <MESSAGE value="6.8&#10;有幸遇到环了。。。重新出现bug" />
+    <MESSAGE value="6.9&#10;王琪跳吃环检测已经ok，预测普通棋也是一样，但还没修改" />
+    <MESSAGE value="6.9&#10;跳吃成环bug已订正，接着书写readme文档" />
+    <MESSAGE value="6.10&#10;完工" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.10&#10;完工" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.history" />
+        <watch expression="self.where" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
